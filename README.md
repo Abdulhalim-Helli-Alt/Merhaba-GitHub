@@ -1,8 +1,8 @@
 # Merhaba-GitHub
-Benim ilk Repo
+Bu depo, GitHub'ı öğrenirken oluşturduğum ilk repo
 
-## Alt başlık
+## Hakkında
 
-**bak**
+**önemli**
 
-[GitHub:] (github.com)
+[GitHub:] (https::github.com)
