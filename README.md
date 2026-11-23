@@ -5,4 +5,4 @@ Bu depo, GitHub'ı öğrenirken oluşturduğum ilk repo
 
 **önemli**
 
-[GitHub:] (https::github.com)
+[GitHub:](https://github.com/Abdulhalim-Helli-Alt/Merhaba-GitHub/blob/main/README.md)
